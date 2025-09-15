@@ -17,9 +17,9 @@ print(prob_at_least_47)
 
 #Part 2 
 #Poisson Distribution
-#Lambda = 12
 
 #Part 3
 lambda <- 12
 prob_exactly_15 <- dpois(15, lambda)
+
 print(prob_exactly_15)
